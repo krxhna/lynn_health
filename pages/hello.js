@@ -13,12 +13,12 @@ export default function Home() {
       <div className="flex flex-col">
         <div className="h-20 bg-white flex justify-between">
           <div className=" text-cyan-700 text-xl font-bold pl-4 pt-5 font-Poppins">
-            lynn health
+            title
           </div>
   
           <div className="flex justify-evenly w-3/12">
             <div className=" text-black  pt-7 pl-4 font-Poppinsv">about</div>
-            <div className=" text-black  pt-7 font-Poppins">invvestment</div>
+            <div className=" text-black  pt-7 font-Poppins">blog</div>
             <div className=" text-black pt-7 font-Poppins">contanct</div>
             <div className=" text-black  pt-7 font-Poppins">learn more</div>
           </div>
